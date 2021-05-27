@@ -33,7 +33,7 @@ padding: 8px 8px;
 vertical-align: middle;    
 overflow: hidden;  
 text-decoration: none; 
-color: rgb(252, 226, 143); 
+color: black; 
 background-color: transparent;
 text-align: center;
 cursor: pointer;
@@ -45,9 +45,10 @@ transform: translate(0%, -50%);
 }
     
 .slider-button:hover {
-color: rgb(118, 182, 255);
-background-color:rgb(0, 0, 0);
+color: white;
+background-color: black;
 }
+
 
 .display-left {
 left: 0%;
