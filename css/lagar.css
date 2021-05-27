@@ -1,0 +1,17 @@
+body {
+    background-image: url("bilder/andreas-selter-fTLUzttoxDU-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.text {
+    background-color: white;
+    max-width: 800px;
+    margin: auto;
+    font-size: 18px;
+}
+ul {
+    list-style-position: inside;
+}

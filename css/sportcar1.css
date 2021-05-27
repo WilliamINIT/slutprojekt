@@ -1,0 +1,21 @@
+body {
+    background-image: url("bilder/andreas-selter-fTLUzttoxDU-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-color: rgb(192, 192, 192);
+}
+p {
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+    background-color: white;
+    max-width: 880px;
+    margin: auto;
+    padding: 5px 5px;
+}
+
+img{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
