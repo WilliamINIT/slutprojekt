@@ -7,6 +7,7 @@ body {
 }
 
 .första-sidan {
+    margin-top: 100px;
     margin: auto;
     background-color: white;
     width: 50%;
