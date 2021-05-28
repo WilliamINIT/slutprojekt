@@ -8,15 +8,13 @@ body {
 
 .första-sidan {
     margin: auto;
-    margin-top: 100px;
     background-color: white;
     width: 50%;
-    border: 3px black;
     padding: 10px;
 }
 
 p {
-    size: 18px;
+    font-size: 18px;
 }
 
 .div-content {
