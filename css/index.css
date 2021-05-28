@@ -56,3 +56,9 @@ left: 0%;
 .display-right {
 right: 0%;
 }
+@media screen and (max-width: 480px) {
+    body {
+        background-image: none;
+      background-color: gray;
+    }
+  }
