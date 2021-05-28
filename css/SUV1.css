@@ -4,6 +4,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .row {
     display: flex;
