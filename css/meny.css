@@ -42,7 +42,7 @@
 }
 
 .main-menu a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: skyblue;
 }
 
 .dropdown-content {
