@@ -24,3 +24,16 @@ p {
     font-size: 30px;
     max-width: 600px;
 }
+
+@media screen and (max-width: 1008px) {
+    body {
+        background-image: none;
+      background-color: gray;
+    }
+    .row {
+        display: block;
+    }
+    .column {
+        margin: auto;
+    }
+}
