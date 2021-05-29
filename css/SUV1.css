@@ -32,6 +32,8 @@ p {
     }
     .row {
         display: block;
-        margin: auto;
+    }
+    p {
+      margin:auto;
     }
 }
