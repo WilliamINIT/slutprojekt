@@ -59,7 +59,7 @@
 }
 
 .dropdown-content a:hover {
-    background-color: #ddd;
+    background-color: skyblue;
 }
 
 .dropdown:hover .dropdown-content {
