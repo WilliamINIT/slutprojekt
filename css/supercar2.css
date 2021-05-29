@@ -34,7 +34,7 @@ img {
     .row {
         display: block;
     }
-    p {
+    .box {
       margin:auto;
     }
 }
