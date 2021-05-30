@@ -66,12 +66,8 @@ right: 0%;
       background-color: lightskyblue;
     }
     .första-sidan {
-        width: 75%;
-        font-size: 25px;
+        width: 80%;
   }
-    p {
-        font-size: 20px;
-}
 }
 
 @media screen and (min-width: 1300px) {
@@ -80,6 +76,6 @@ right: 0%;
     background-color: lightskyblue;
     }
     .första-sidan {
-        width: 40%;
+        width: 50%;
     }
 }
