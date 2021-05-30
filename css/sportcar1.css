@@ -19,3 +19,13 @@ img{
     padding-top: 25px;
     padding-bottom: 10px;
 }
+
+@media screen and (max-width: 800px) {
+    body {
+        background-image: none;
+        background-color: lightskyblue;
+    }
+    p {
+        width: 80%
+    }
+}
