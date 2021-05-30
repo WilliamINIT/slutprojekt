@@ -57,10 +57,13 @@ left: 0%;
 .display-right {
 right: 0%;
 }
-@media screen and (max-width: 1008px) {
+
+
+
+@media screen and (max-width: 768px) {
     body {
         background-image: none;
-      background-color: gray;
+      background-color: lightskyblue;
     }
     .första-sidan {
         width: 75%;
@@ -69,4 +72,13 @@ right: 0%;
     p {
         font-size: 20px;
 }
+}
+
+@media screen and (min-width: 1300px) {
+    body {
+    background-image: none;
+    background-color: lightskyblue;
+    }
+    .första-sidan {
+        width: 40%;
 }
