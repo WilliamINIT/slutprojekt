@@ -25,7 +25,7 @@ img{
         background-image: none;
         background-color: lightskyblue;
     }
-    p {
+    .text {
         width: 80%
     }
 }
