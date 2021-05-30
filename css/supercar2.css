@@ -29,12 +29,19 @@ img {
 @media screen and (max-width: 1008px) {
     body {
         background-image: none;
-      background-color: gray;
+      background-color: lightskyblue;
     }
     .row {
         display: block;
     }
     .box {
       margin:auto;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    body {
+        background-image: none;
+        background-color: lightskyblue;
     }
 }
