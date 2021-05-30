@@ -28,11 +28,15 @@ p {
 @media screen and (max-width: 768px) {
     body {
         background-image: none;
-      background-color: lightskyblue;
+      background-color: gray;
+        width: 
     }
-    .första-sidan {
-        width: 80%;
-  }
+    .row {
+        display: block;
+    }
+    .box {
+      margin:auto;
+    }
 }
 
 @media screen and (min-width: 1300px) {
