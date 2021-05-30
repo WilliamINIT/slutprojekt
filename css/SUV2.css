@@ -18,3 +18,26 @@ img {
     font-size: 25px;
     margin: auto;
 }
+@media screen and (max-width: 600px) {
+    body {
+        background-color: lightskyblue;
+        background-image: none;
+    }
+    img {
+        width: 75%;
+        height: 75%
+    }
+    .box {
+        width: 90%;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    body {
+        background-color: lightskyblue;
+        background-image: none;
+    }
+    .box {
+        width: 70%;
+    }
+}
