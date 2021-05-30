@@ -25,15 +25,22 @@ p {
     max-width: 600px;
 }
 
-@media screen and (max-width: 1008px) {
+@media screen and (max-width: 768px) {
     body {
         background-image: none;
-      background-color: gray;
+      background-color: lightskyblue;
     }
-    .row {
-        display: block;
+    .första-sidan {
+        width: 80%;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+    body {
+    background-image: none;
+    background-color: lightskyblue;
     }
-    p {
-      margin:auto;
+    .första-sidan {
+        width: 50%;
     }
 }
