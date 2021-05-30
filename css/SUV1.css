@@ -28,7 +28,7 @@ p {
 @media screen and (max-width: 768px) {
     body {
         background-image: none;
-      background-color: gray;
+      background-color: skyblue;
     }
     .row {
         display: block;
