@@ -25,3 +25,27 @@ body {
     font-size: 20px;
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
+
+@media screen and (max-width: 830px) {
+   body {
+       background-color: lightskyblue;
+       background-image: none;
+   } 
+   img {
+       width: 95%;
+       height: 95%;
+   }
+   p {
+       width: 90%;
+   }
+}
+
+@media screen and (min-width: 1300px) {
+    body {
+        background-color: lightskyblue;
+        background-image: none;
+    }
+    p {
+        width: 60%;
+    }
+}
