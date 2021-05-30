@@ -25,7 +25,26 @@ img{
         background-image: none;
         background-color: lightskyblue;
     }
-    .text {
-        width: 80%
+    p {
+        width: 80%;
+        margin: auto;
+    }
+    img {
+        width: 80%;
+        height: 80%
+    }
+}
+
+@media screen and (min-width:1300px) {
+    body {
+        background-image: none;
+        background-color: lightskyblue;
+    }
+    p {
+        width: 50%;
+    }
+    img {
+        width: 50%;
+        height: 50%;
     }
 }
